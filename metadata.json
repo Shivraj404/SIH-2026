@@ -1,0 +1,6 @@
+{
+  "name": "Sushrut-AI",
+  "description": "Diabetic Retinopathy Screening MVP for primary healthcare workers, powered by AI triage and APTOS 2019 clinical standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
